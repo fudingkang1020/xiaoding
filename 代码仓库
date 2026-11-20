@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+//dijsktra 链式前向星
 int main(){
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);
